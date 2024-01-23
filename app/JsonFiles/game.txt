@@ -1,0 +1,18 @@
+game:
+	sad:
+		https://a.pinatafarm.com/680x520/33be8f2712/werewolf-sitting.jpg
+		https://indianmemetemplates.com/wp-content/uploads/sad-disappointed-pakistani-fan.jpg
+		https://media.tenor.com/ralgL16WKNcAAAAC/cry-sad.gif
+		https://i.gifer.com/4HZ.gif
+		https://media.tenor.com/TLH4vtyDbeIAAAAd/sad-cat-meme.gif
+	Happy:
+		https://media.tenor.com/OisrcIAEfwkAAAAM/excited-yay.gif
+		https://media.tenor.com/7HAPgTxn-toAAAAd/will-smith-i-did-it.gif
+		https://media.tenor.com/qyh-VsSA0ZMAAAAd/wow-oh.gif
+		https://media.tenor.com/CbMGJCfAa_EAAAAM/wiggle-shimmy.gif
+		https://media.tenor.com/6G8KXj9IaiMAAAAd/memes-happy.gif
+home:
+	https://media.tenor.com/W_aA0wh5C4gAAAAM/lets-play-skeleton.gif
+	https://media.tenor.com/kApcqo7qwsEAAAAC/lets-play-come-play.gif
+	https://media.tenor.com/YdlQEEE95IkAAAAM/the-office-andy.gif
+	https://media.tenor.com/xxFPW82ZUucAAAAC/chamber-you-want-to-play-lets-play.gif
